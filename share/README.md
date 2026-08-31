@@ -45,7 +45,7 @@ Upload the completed **Student Declaration Format** provided by the SIH Internal
 Recommended filename:
 
 ```text
-SIH26-A0H-TXXX_Student_Declaration.pdf
+SIH26-A0H-T341_Declaration (1).docx - EDITABLE VERSION
 ```
 
 ```text
@@ -61,7 +61,7 @@ Upload the Signed **SIH 2026 Participants Guidelines** provided by the SIH Inter
 Recommended filename:
 
 ```text
-SIH26-A0H-TXXX_Team_Declaration_Internal.pdf
+SIH26-A0H-T341_Team_Declaration_Internal (1).docx
 ```
 
 Please upload the signed version in pdf format.
