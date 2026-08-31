@@ -49,7 +49,7 @@ SIH26-A0H-TXXX_Student_Declaration.pdf
 ```
 
 ```text
-SIH26-A0H-TXXX_Student_Declaration.docx
+SIH26-A0H-T341_Declaration.docx
 ```
 
 Please upload the signed version in pdf format and the editable version in word form (.docx).
