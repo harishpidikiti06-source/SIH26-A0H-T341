@@ -26,7 +26,7 @@ Upload the final presentation prepared by your team.
 Recommended filename:
 
 ```text
-SIH26-A0H-T341_Presentation_Final.pptx
+SIH26-A0H-T341_Presentation_Final (2).pptx
 ```
 
 or
