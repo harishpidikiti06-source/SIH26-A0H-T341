@@ -32,7 +32,7 @@ SIH26-A0H-T341_Presentation_Final (2).pptx
 or
 
 ```text
-SIH26-A0H-TXXX-SIH26YYY_Presentation.pdf
+SIH26-A0H-T341_Presentation_PS2.pptx
 ```
 
 The presentation should be the **final version presented during the Internal Hackathon**.
