@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:** SIH26005
-* **Problem Statement Title:**  Solar-Powered Smart Mini Cold Storage System for Fresh Vegetables in North Eastern Region (NER)
-* **Theme / Category:** Agriculture, FoodTech & Rural Development/ Hardware
-* **Ministry / Organization:**  Ministry of Development of North Eastern Region (MDoNER)
+* **Problem Statement ID:** SIH26007
+* **Problem Statement Title:**  Safe and Efficient Operation of Mine Vehicles in Fog and Low-Visibility Conditions in Open Cast Iron Ore Mines.
+* **Theme / Category:** Smart Automation/Hardware
+* **Ministry / Organization:**  Ministry of Steel
